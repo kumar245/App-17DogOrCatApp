@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App-17 Dog Or Cat App</string>
+    <string name="dog_or_cat">Dog Or Cat</string>
+    <string name="you_are_a">You Are a . . . .</string>
+    <string name="result_activity">Result Activity</string>
+</resources>
